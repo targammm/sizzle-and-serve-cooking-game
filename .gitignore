@@ -1,0 +1,6 @@
+# Sizzle & Serve — build outputs and local scratch, never submitted.
+out/
+tmp/
+node_modules/
+*.log
+.DS_Store
